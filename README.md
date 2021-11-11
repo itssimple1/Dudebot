@@ -21,7 +21,9 @@ __________COMING_SOON_______
 _______________String_Session__________________________
 
 [![String](https://telegra.ph/file/5f0d2e3296ff946713ac1.jpg)](https://replit.com/@itssimple1/Dudebot#main.py) 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itssimple1/Dudebot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)]
+ 
+(https://replit.com/@itssimple1/Dudebot#main.py) 
 
 Python_Session__________________________________________
 - Click On Generate String
