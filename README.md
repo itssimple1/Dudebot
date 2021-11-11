@@ -1,7 +1,7 @@
 # Dudebot ❤
 
 
-{DEVELOPER}By = [DUDE](http://t.me/its_simple1)
+{DEVELOPED}By = [DUDE](http://t.me/its_simple1)
 
 
 DUDE
@@ -47,7 +47,7 @@ StringSession
 String
 
 
-                    ✧༺♥༻✧
+                                 ✧༺♥༻✧
 
 
 
